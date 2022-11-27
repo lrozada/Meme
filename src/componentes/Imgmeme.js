@@ -29,7 +29,6 @@ const Imgmeme = () => {
 
             <figure>
             
-
             <p className="w-100 px-30 text-center position-absolute top-50 start-30 h1">{ingresarTexto}</p>
 
             <img src={`./Imgmemes/${imgmemes}.jpeg`} className="figure-img img-fluid mt-3 d-block m-auto"/>

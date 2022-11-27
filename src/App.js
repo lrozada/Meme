@@ -12,9 +12,7 @@ function App() {
     <div className="">
      
      <Imgmeme/>
-     
-
- 
+  
 
     </div>
   );
